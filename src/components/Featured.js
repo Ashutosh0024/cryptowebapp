@@ -28,9 +28,9 @@ const Featured = () => {
             <div className='container'>
                 {/* Left */}
                 <div className='left'>
-                    <h2>Explore top Crypto's Like Bitcoin, Ethereum, and Dogecoin</h2>
-                    <p>See all available assets: Cryptocurrencies and NFT's</p>
-                    <button className='btn'>See More Coins</button>
+                    <h2>Explore top Crypto's Like Bitcoin, Ethereum, and Many more.</h2>
+                    <p>Click on the button below to explore more.</p>
+                    <button className='btn'><a href='https://cryptowebapp024.netlify.app/'>See More Coins</a></button>
                 </div>
 
                 {/* Right */}
