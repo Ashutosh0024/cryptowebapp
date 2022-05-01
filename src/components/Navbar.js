@@ -19,7 +19,7 @@ const handleClick = () => setClick(!click)
                         <a href='https://cryptowebapp024.netlify.app/'>Tracker</a>
                     </li>
                     <li>
-                        <a href='/'>Wallet</a>
+                        <a href='https://wallet-demo-react.netlify.app/'>Wallet</a>
                     </li>
                 </ul>
                 <div className='btn-group'>
