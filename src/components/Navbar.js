@@ -23,7 +23,7 @@ const handleClick = () => setClick(!click)
                     </li>
                 </ul>
                 <div className='btn-group'>
-                    <button className='btn'><a classname = 'Wallet-btn'href='https://wallet-demo-react.netlify.app/'>Go to crypto Wallet</a></button>
+                    <button className='btn'><a classname ='Wallet-btn' href='https://wallet-demo-react.netlify.app/'>Go to crypto Wallet</a></button>
                 </div>
                 <div className='hamburger' onClick={handleClick}>
                     {click ? (<FaTimes size={20} style={{color: '#333'}}/>) : (<FaBars size={20} style={{color: '#333'}} />)}
