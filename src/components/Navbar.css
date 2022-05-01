@@ -24,7 +24,9 @@
 .nav-menu {
     display: flex;
 }
-
+.Wallet-btn{
+    color: #fff;
+}
 .nav-menu li {
     padding: 0 1rem;
 }
